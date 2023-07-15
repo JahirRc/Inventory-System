@@ -1,3 +1,6 @@
+<?php
+echo "";
+?>
 <aside>
                 <div class="top">
 
