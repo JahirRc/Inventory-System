@@ -1,3 +1,6 @@
+<?php
+echo "Login";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
