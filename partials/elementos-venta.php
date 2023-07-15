@@ -1,4 +1,6 @@
-
+<?php
+echo "";
+?>
 <link rel="stylesheet" href="css/registrar-venta.css?parameter=2">
 
 	<td><a class="cut">-</a><span contenteditable id="id_prod" name="id_prod" onClick="buscar()"></span></td>
