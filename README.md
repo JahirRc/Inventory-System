@@ -7,11 +7,11 @@
 </ul>
 
 <h1>ADMIN VIEW</h1>
-![image](https://github.com/JahirRc/Inventory-System/assets/72409427/f61fd295-2089-4b28-b7f6-a88294f3e310)
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/f61fd295-2089-4b28-b7f6-a88294f3e310"></kbd>
 
 
 <h1>EMPLOYEE VIEW</h1>
-![image](https://github.com/JahirRc/Inventory-System/assets/72409427/58dc30f2-3eba-4f67-89e3-3a7ecb14307c)
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/58dc30f2-3eba-4f67-89e3-3a7ecb14307c"></kbd>
 
 
 
