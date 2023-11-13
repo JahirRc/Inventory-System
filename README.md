@@ -24,8 +24,38 @@
 
 <h1>SALE</h1>
 Using dark mode.
+<ul>
+  <li>Put an ID.</li>
+  <li>On every space u can put a product ID and press space to search it.</li>
+  <li>Reg. sale.</li>
+</ul>
 <kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/68ba95b0-b90d-4be7-9f0b-3bfc6fbee08b"></kbd>
-![image](https://github.com/JahirRc/Inventory-System/assets/72409427/091fb284-5727-4fa5-94a8-518317a377eb)
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/091fb284-5727-4fa5-94a8-518317a377eb"></kbd>
+
+
+<h1>PRODUCT</h1>
+<ul>
+  <li>Search: put the product ID and push the button to search.</li>
+  <li>Register: put all the data and push the button to search.</li>
+  <li>Update: first, do a search, change what do u want and push the update button.</li>
+  <li>Delete: put the product ID and delete.</li>
+  <li>U can add new categories to appear in select box, use the little form.</li>
+</ul>
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/0e90dafc-9e7b-40be-80d9-4b3787ba5e6c"></kbd>
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/d523fc63-5633-4144-be6a-da2f11d13e0a"></kbd>
+
+
+<h1>USER</h1>
+<ul>
+  <li>The passwords are only showed for the admin.</li>
+  <li>All the search, register, update and delete thing works like the product.</li>
+</ul>
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/5a39e999-59fb-4701-a172-e0f3dbdb015b"></kbd>
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/e02080a7-6901-452a-ad95-6012e31aa788"></kbd>
+
+
+<h1>ACTIVITY RECORD</h1>
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/b1cadc0b-afd3-44fa-8aa9-d4e561a45ddd"></kbd>
 
 
 
