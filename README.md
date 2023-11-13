@@ -25,6 +25,8 @@
 <h1>SALE</h1>
 Using dark mode.
 <kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/68ba95b0-b90d-4be7-9f0b-3bfc6fbee08b"></kbd>
+![image](https://github.com/JahirRc/Inventory-System/assets/72409427/091fb284-5727-4fa5-94a8-518317a377eb)
+
 
 
 
