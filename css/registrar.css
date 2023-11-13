@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --white: #FFF;
+  --whitesmoke: #F9F9F9;
+  --light-grey: #ECECEC;
+  --grey: #C4C4C4;
+  --medium-grey: #A7A7A7;
+  --deep-grey: #343434;
+  --black: #000000;
+  --blue: #1B77F3;
+  --red: #CF3C3F;
+}
+
+
+.wrapper {
+  font-family: 'Lexend Deca', sans-serif;
+  background: var(--color-white);
+  width: 100%;
+  border-radius: var(--card-border-radius);
+  padding: var(--card-padding);
+  text-align: center;
+  box-shadow: var(--box-shadow);
+  transition: all 300ms ease;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6rem;
+}
+
+*[contenteditable] { border-radius: 0.25em; min-width: 1em; outline: 0; }
+
+
+.cut { opacity: 0; left: -1.5em; }
+
+tr:hover .cut { opacity: 1; }
+
+.cut
+{
+	border-width: 1px;
+	display: grid;
+	font-size: .8rem;
+	padding: 0.25em 0.5em;	
+	float: left;
+	text-align: center;
+	width: 1.5em;
+}
+
+.add, .cut
+{
+	background: var(--box1-color);
+	box-shadow: var(--box-shadow);
+	border-radius: var(--card-border-radius);
+	border-color: #0076A3;
+	color: var(--color-dark);
+	cursor: pointer;
+}
+
+
+.login__label {
+  display: block;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.input {
+  width: 100%;
+  background-color: var(--color-light);
+  border: 2px solid rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  outline: none;
+  font-size: 0.9em;
+  padding: 25px 10px 10px;
+  font-weight: 600;
+  color: var(--color-dark);
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.input[type=number]::-webkit-inner-spin-button, 
+.input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.login__label span {
+  position: absolute;
+  font-size: 0.7em;
+  margin: 8px 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--color-dark-variant);
+  cursor: text;
+  transition: all 200ms ease;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.input:focus {
+  background-color: var(--color-light);
+  border: 2px solid var(--deep-grey);
+}
+
+.login__button {
+  width: 100%;
+  height: 60px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lexend Deca', sans-serif;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-dark);
+
+  border-radius: 20px;
+  cursor: pointer;
+  color: var(--color-dark);
+}
+
+.espacio1{
+  display: none;
+}
+
+
+@media screen and (max-width: 768px){
+
+  .wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .cut { 
+    margin-left: -20px; 
+  }
+
+  select{
+    padding: 0.5rem;
+  }
+
+  .espacio1{
+    display: flex;
+  }
+  
+}
