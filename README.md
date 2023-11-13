@@ -22,6 +22,12 @@
 <kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/58dc30f2-3eba-4f67-89e3-3a7ecb14307c"></kbd>
 
 
+<h1>SALE</h1>
+Using dark mode.
+<kbd><img src="https://github.com/JahirRc/Inventory-System/assets/72409427/68ba95b0-b90d-4be7-9f0b-3bfc6fbee08b"></kbd>
+
+
+
 
 
 
